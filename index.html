@@ -91,7 +91,7 @@
 
 <script>
   // Fetch and parse the states data from states.json
-  fetch('states.json')
+  fetch('https://raw.githubusercontent.com/condio/licenseplatesite/main/states.json')
       .then(response => response.json())
       .then(states => {
           // Generate the style section dynamically based on the "seen" property
