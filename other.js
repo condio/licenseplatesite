@@ -2,18 +2,18 @@
 fetch('https://raw.githubusercontent.com/condio/licenseplatesite/main/other.json')
     .then(response => response.json())
     .then(otherData => {
-        // Create an ordered list
-        const otherList = document.createElement('ol');
+        // Create a container div
+        const containerDiv = document.createElement('div');
 
-        // Populate the ordered list with the names of states from other.json
+        // Populate the container with paragraphs
         otherData.forEach((state, index) => {
-            const listItem = document.createElement('p');
-            listItem.textContent = `${state.Name}`;
-            otherList.appendChild(listItem);
+            const paragraph = document.createElement('p');
+            paragraph.textContent = `${state.Name}`;
+            containerDiv.appendChild(paragraph);
         });
 
-        // Display the ordered list inside the otherinfo div
+        // Display the container inside the otherinfo div
         const otherInfo = document.getElementById('otherinfo');
-        otherInfo.appendChild(otherList);
+        otherInfo.appendChild(containerDiv);
     })
     .catch(error => console.error('Error fetching other data:', error));

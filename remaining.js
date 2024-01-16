@@ -5,18 +5,18 @@ fetch('https://raw.githubusercontent.com/condio/licenseplatesite/main/states.jso
         // Filter out the states that have not been seen
         const remainingStates = states.filter(state => !state.seen);
 
-        // Create an ordered list
-        const remainingList = document.createElement('ol');
+        // Create a container div
+        const containerDiv = document.createElement('div');
 
-        // Populate the ordered list with the remaining states
+        // Populate the container with paragraphs and line breaks
         remainingStates.forEach((state, index) => {
-            const listItem = document.createElement('p');
-            listItem.textContent = `${state.Name} (${state.ID})`;
-            remainingList.appendChild(listItem);
+            const paragraph = document.createElement('p');
+            paragraph.textContent = `${state.Name} (${state.ID})`;
+            containerDiv.appendChild(paragraph);
         });
 
-        // Display the ordered list inside the stats-box div
+        // Display the container inside the stats-box div
         const statsBox = document.getElementById('remaining');
-        statsBox.appendChild(remainingList);
+        statsBox.appendChild(containerDiv);
     })
     .catch(error => console.error('Error fetching states data:', error));
