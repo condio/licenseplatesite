@@ -10,7 +10,7 @@ fetch('https://raw.githubusercontent.com/condio/licenseplatesite/main/states.jso
 
         // Populate the ordered list with the remaining states
         remainingStates.forEach((state, index) => {
-            const listItem = document.createElement('li');
+            const listItem = document.createElement('p');
             listItem.textContent = `${state.Name} (${state.ID})`;
             remainingList.appendChild(listItem);
         });

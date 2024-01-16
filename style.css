@@ -29,6 +29,7 @@ header {
 #stats-box,
 #us-map {
   width: 100%;
+  height: 40%;
   box-sizing: border-box;
   background-color: white;
 }
@@ -74,6 +75,7 @@ th {
 
 #infobox {
   display: flex;
+  flex-wrap: wrap; /* Allow flex items to wrap to the next line */
   justify-content: center; /* Center the content horizontally */
   background-color: white;
 }
@@ -85,8 +87,17 @@ th {
   border: 1px solid #ccc; /* Optional: Add a border for visual separation */
   background-color: white;
   border-radius: 10px; /* Add rounded corners */
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add a subtle drop shadow */
-  max-width: 30%;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Add a subtle drop shadow */
+  text-align: center;
+  max-width: 35%;
+}
+
+/* Media query to stack elements vertically on smaller screens */
+@media (max-width: 600px) {
+  .otherinfo {
+      flex: 100%; /* Full width on smaller screens */
+      max-width: 80%;
+  }
 }
 
 footer {

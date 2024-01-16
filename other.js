@@ -7,7 +7,7 @@ fetch('https://raw.githubusercontent.com/condio/licenseplatesite/main/other.json
 
         // Populate the ordered list with the names of states from other.json
         otherData.forEach((state, index) => {
-            const listItem = document.createElement('li');
+            const listItem = document.createElement('p');
             listItem.textContent = `${state.Name}`;
             otherList.appendChild(listItem);
         });
