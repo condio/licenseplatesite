@@ -57,8 +57,10 @@ svg {
 
 table {
   border-collapse: collapse;
-  width: 100%;
+  width: 80%;
+  margin: 0 auto; /* Center the table horizontally */
 }
+
 
 th, td {
   border: 1px solid #ddd;
@@ -68,4 +70,32 @@ th, td {
 
 th {
   background-color: #f2f2f2;
+}
+
+#infobox {
+  display: flex;
+  justify-content: center; /* Center the content horizontally */
+  background-color: white;
+}
+
+.otherinfo {
+  flex: 1;
+  margin: 10px; /* Adjust margin as needed */
+  padding: 20px; /* Adjust padding as needed */
+  border: 1px solid #ccc; /* Optional: Add a border for visual separation */
+  background-color: white;
+  border-radius: 10px; /* Add rounded corners */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add a subtle drop shadow */
+  max-width: 30%;
+}
+
+footer {
+  background-color: #3498db;
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+}
+
+.copyright {
+  font-size: 14px;
 }

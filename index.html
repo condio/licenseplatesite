@@ -13,7 +13,6 @@
 </header>
 <body>
   <div id="stats-box">
-    <h2>Stats:</h2>
     <table>
       <tr>
           <th>States Seen</th>
@@ -22,10 +21,9 @@
           <th>Total Seen</th>
       </tr>
       <tr id="statstable">
-          <script src="statesseen.js"></script>
+          <script src="stats.js"></script>
       </tr>
     </table>
-    <!-- <script src="stats.js"></script> -->
   </div>
 
   <div id="mapdiv">
@@ -87,5 +85,19 @@
     </svg>
   <script src="stylestates.js"></script>
   </div>
+  <div id="infobox">
+    <div id="remaining" class="otherinfo">
+      <h3>States Remaining:</h3>
+      <script src="remaining.js"></script>
+    </div>
+    <div id="otherinfo" class="otherinfo">
+      <h3>Other Plates Seen:</h3>
+      <script src="other.js"></script>
+    </div>
+  </div>
   </body>
+
+  <footer>
+    <p class="copyright">© Plates.conpow.com 2024</p>
+  </footer>
 </html>
