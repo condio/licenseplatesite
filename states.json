@@ -1,5 +1,5 @@
 [
-  { "ID": "AL", "Name": "Alabama", "seen": false },
+  { "ID": "AL", "Name": "Alabama", "seen": true },
   { "ID": "AK", "Name": "Alaska", "seen": true },
   { "ID": "AZ", "Name": "Arizona", "seen": true },
   { "ID": "AR", "Name": "Arkansas", "seen": true },
