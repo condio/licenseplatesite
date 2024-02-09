@@ -32,7 +32,7 @@
   { "ID": "NM", "Name": "New Mexico", "seen": true },
   { "ID": "NY", "Name": "New York", "seen": true },
   { "ID": "NC", "Name": "North Carolina", "seen": true },
-  { "ID": "ND", "Name": "North Dakota", "seen": false },
+  { "ID": "ND", "Name": "North Dakota", "seen": true },
   { "ID": "OH", "Name": "Ohio", "seen": true },
   { "ID": "OK", "Name": "Oklahoma", "seen": true },
   { "ID": "OR", "Name": "Oregon", "seen": true },
