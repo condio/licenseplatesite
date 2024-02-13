@@ -24,7 +24,7 @@
   { "ID": "MN", "Name": "Minnesota", "seen": true },
   { "ID": "MS", "Name": "Mississippi", "seen": true },
   { "ID": "MO", "Name": "Missouri", "seen": true },
-  { "ID": "MT", "Name": "Montana", "seen": false },
+  { "ID": "MT", "Name": "Montana", "seen": true },
   { "ID": "NE", "Name": "Nebraska", "seen": true },
   { "ID": "NV", "Name": "Nevada", "seen": false },
   { "ID": "NH", "Name": "New Hampshire", "seen": false },
