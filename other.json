@@ -1,7 +1,7 @@
 [
       { "ID": "DC", "Name": "Washington DC", "seen": true },
-      { "ID": "DC", "Name": "Puerto Rico", "seen": true },
-      { "ID": "DC", "Name": "Alberta, Canada", "seen": true },
-      { "ID": "DC", "Name": "Quebec, Canada", "seen": true },
-      { "ID": "DC", "Name": "Ontario, Canada", "seen": true }
+      { "ID": "PR", "Name": "Puerto Rico", "seen": true },
+      { "ID": "AC", "Name": "Alberta, Canada", "seen": true },
+      { "ID": "QC", "Name": "Quebec, Canada", "seen": true },
+      { "ID": "OC", "Name": "Ontario, Canada", "seen": true }
 ]
