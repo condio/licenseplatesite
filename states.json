@@ -43,7 +43,7 @@
   { "ID": "TN", "Name": "Tennessee", "seen": true },
   { "ID": "TX", "Name": "Texas", "seen": true },
   { "ID": "UT", "Name": "Utah", "seen": true },
-  { "ID": "VT", "Name": "Vermont", "seen": false },
+  { "ID": "VT", "Name": "Vermont", "seen": true },
   { "ID": "VA", "Name": "Virginia", "seen": true },
   { "ID": "WA", "Name": "Washington", "seen": true },
   { "ID": "WV", "Name": "West Virginia", "seen": true },
