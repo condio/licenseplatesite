@@ -48,5 +48,5 @@
   { "ID": "WA", "Name": "Washington", "seen": true },
   { "ID": "WV", "Name": "West Virginia", "seen": true },
   { "ID": "WI", "Name": "Wisconsin", "seen": true },
-  { "ID": "WY", "Name": "Wyoming", "seen": false }
+  { "ID": "WY", "Name": "Wyoming", "seen": true }
 ]
