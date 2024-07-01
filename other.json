@@ -3,5 +3,6 @@
       { "ID": "PR", "Name": "Puerto Rico", "seen": true },
       { "ID": "AC", "Name": "Alberta, Canada", "seen": true },
       { "ID": "QC", "Name": "Quebec, Canada", "seen": true },
-      { "ID": "OC", "Name": "Ontario, Canada", "seen": true }
+      { "ID": "OC", "Name": "Ontario, Canada", "seen": true },
+      { "ID": "OC", "Name": "Manitoba, Canada", "seen": true }
 ]
