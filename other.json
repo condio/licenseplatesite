@@ -1,17 +1,17 @@
 [
     {
         "ID": "1",
-        "Name": "Tamaulipas",
+        "Name": "Tamaulipas, Mexico",
         "seen": true
     },
     {
         "ID": "2",
-        "Name": "Washington, D.C.",
+        "Name": "Washington, D.C., USA Other",
         "seen": true
     },
     {
         "ID": "3",
-        "Name": "Puerto Rico",
+        "Name": "Puerto Rico, USA Other",
         "seen": true
     }
 ]
