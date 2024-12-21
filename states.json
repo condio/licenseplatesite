@@ -1,42 +1,62 @@
 [
     {
-        "ID": "PA",
-        "Name": "Pennsylvania",
-        "seen": true
+        "ID": "AL",
+        "Name": "Alabama",
+        "seen": false
     },
     {
-        "ID": "WV",
-        "Name": "West Virginia",
-        "seen": true
+        "ID": "AK",
+        "Name": "Alaska",
+        "seen": false
     },
     {
-        "ID": "VA",
-        "Name": "Virginia",
-        "seen": true
+        "ID": "AZ",
+        "Name": "Arizona",
+        "seen": false
     },
     {
-        "ID": "TX",
-        "Name": "Texas",
-        "seen": true
+        "ID": "AR",
+        "Name": "Arkansas",
+        "seen": false
     },
     {
-        "ID": "OH",
-        "Name": "Ohio",
-        "seen": true
+        "ID": "CA",
+        "Name": "California",
+        "seen": false
     },
     {
-        "ID": "NY",
-        "Name": "New York",
-        "seen": true
+        "ID": "CO",
+        "Name": "Colorado",
+        "seen": false
     },
     {
-        "ID": "ID",
-        "Name": "Idaho",
-        "seen": true
+        "ID": "CT",
+        "Name": "Connecticut",
+        "seen": false
+    },
+    {
+        "ID": "DE",
+        "Name": "Delaware",
+        "seen": false
+    },
+    {
+        "ID": "FL",
+        "Name": "Florida",
+        "seen": false
     },
     {
         "ID": "GA",
         "Name": "Georgia",
+        "seen": true
+    },
+    {
+        "ID": "HI",
+        "Name": "Hawaii",
+        "seen": false
+    },
+    {
+        "ID": "ID",
+        "Name": "Idaho",
         "seen": true
     },
     {
@@ -45,13 +65,188 @@
         "seen": true
     },
     {
+        "ID": "IN",
+        "Name": "Indiana",
+        "seen": false
+    },
+    {
+        "ID": "IA",
+        "Name": "Iowa",
+        "seen": false
+    },
+    {
+        "ID": "KS",
+        "Name": "Kansas",
+        "seen": false
+    },
+    {
+        "ID": "KY",
+        "Name": "Kentucky",
+        "seen": false
+    },
+    {
+        "ID": "LA",
+        "Name": "Louisiana",
+        "seen": false
+    },
+    {
+        "ID": "ME",
+        "Name": "Maine",
+        "seen": false
+    },
+    {
+        "ID": "MD",
+        "Name": "Maryland",
+        "seen": false
+    },
+    {
         "ID": "MA",
         "Name": "Massachusetts",
         "seen": true
     },
     {
+        "ID": "MI",
+        "Name": "Michigan",
+        "seen": true
+    },
+    {
+        "ID": "MN",
+        "Name": "Minnesota",
+        "seen": false
+    },
+    {
         "ID": "MS",
         "Name": "Mississippi",
         "seen": true
+    },
+    {
+        "ID": "MO",
+        "Name": "Missouri",
+        "seen": false
+    },
+    {
+        "ID": "MT",
+        "Name": "Montana",
+        "seen": false
+    },
+    {
+        "ID": "NE",
+        "Name": "Nebraska",
+        "seen": false
+    },
+    {
+        "ID": "NV",
+        "Name": "Nevada",
+        "seen": false
+    },
+    {
+        "ID": "NH",
+        "Name": "New Hampshire",
+        "seen": false
+    },
+    {
+        "ID": "NJ",
+        "Name": "New Jersey",
+        "seen": false
+    },
+    {
+        "ID": "NM",
+        "Name": "New Mexico",
+        "seen": false
+    },
+    {
+        "ID": "NY",
+        "Name": "New York",
+        "seen": true
+    },
+    {
+        "ID": "NC",
+        "Name": "North Carolina",
+        "seen": false
+    },
+    {
+        "ID": "ND",
+        "Name": "North Dakota",
+        "seen": false
+    },
+    {
+        "ID": "OH",
+        "Name": "Ohio",
+        "seen": true
+    },
+    {
+        "ID": "OK",
+        "Name": "Oklahoma",
+        "seen": false
+    },
+    {
+        "ID": "OR",
+        "Name": "Oregon",
+        "seen": false
+    },
+    {
+        "ID": "PA",
+        "Name": "Pennsylvania",
+        "seen": true
+    },
+    {
+        "ID": "RI",
+        "Name": "Rhode Island",
+        "seen": false
+    },
+    {
+        "ID": "SC",
+        "Name": "South Carolina",
+        "seen": false
+    },
+    {
+        "ID": "SD",
+        "Name": "South Dakota",
+        "seen": false
+    },
+    {
+        "ID": "TN",
+        "Name": "Tennessee",
+        "seen": false
+    },
+    {
+        "ID": "TX",
+        "Name": "Texas",
+        "seen": true
+    },
+    {
+        "ID": "UT",
+        "Name": "Utah",
+        "seen": false
+    },
+    {
+        "ID": "VT",
+        "Name": "Vermont",
+        "seen": false
+    },
+    {
+        "ID": "VA",
+        "Name": "Virginia",
+        "seen": true
+    },
+    {
+        "ID": "WA",
+        "Name": "Washington",
+        "seen": false
+    },
+    {
+        "ID": "WV",
+        "Name": "West Virginia",
+        "seen": true
+    },
+    {
+        "ID": "WI",
+        "Name": "Wisconsin",
+        "seen": false
+    },
+    {
+        "ID": "WY",
+        "Name": "Wyoming",
+        "seen": false
     }
 ]
