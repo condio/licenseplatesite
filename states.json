@@ -22,12 +22,12 @@
     {
         "ID": "CA",
         "Name": "California",
-        "seen": false
+        "seen": true
     },
     {
         "ID": "CO",
         "Name": "Colorado",
-        "seen": false
+        "seen": true
     },
     {
         "ID": "CT",
@@ -37,7 +37,7 @@
     {
         "ID": "DE",
         "Name": "Delaware",
-        "seen": false
+        "seen": true
     },
     {
         "ID": "FL",
@@ -67,22 +67,22 @@
     {
         "ID": "IN",
         "Name": "Indiana",
-        "seen": false
+        "seen": true
     },
     {
         "ID": "IA",
         "Name": "Iowa",
-        "seen": false
+        "seen": true
     },
     {
         "ID": "KS",
         "Name": "Kansas",
-        "seen": false
+        "seen": true
     },
     {
         "ID": "KY",
         "Name": "Kentucky",
-        "seen": false
+        "seen": true
     },
     {
         "ID": "LA",
@@ -127,7 +127,7 @@
     {
         "ID": "MT",
         "Name": "Montana",
-        "seen": false
+        "seen": true
     },
     {
         "ID": "NE",
@@ -137,7 +137,7 @@
     {
         "ID": "NV",
         "Name": "Nevada",
-        "seen": false
+        "seen": true
     },
     {
         "ID": "NH",
@@ -242,7 +242,7 @@
     {
         "ID": "WI",
         "Name": "Wisconsin",
-        "seen": false
+        "seen": true
     },
     {
         "ID": "WY",
