@@ -88,11 +88,31 @@ th {
 
 /* Responsive design for small screens */
 @media (max-width: 600px) {
+  .site-name {
+    font-size: 28px; /* Slightly smaller for small screens */
+  }
+
+  .tagline {
+    font-size: 14px; /* Reduced to fit smaller screens */
+  }
+
+  #stats-box, #mapdiv, #infobox {
+    width: 90%; /* Ensure proper width on mobile */
+    padding: 5px; /* Reduce padding for small screens */
+  }
+
   .otherinfo {
-    flex: 1 1 100%;
-    max-width: 80%;
+    flex: 1 1 100%; /* Stack boxes vertically */
+    max-width: 100%; /* Ensure full width */
+    margin: 10px 0; /* Add vertical spacing */
+  }
+
+  th, td {
+    padding: 8px; /* Reduce padding for table cells */
+    font-size: 14px; /* Adjust font size for readability */
   }
 }
+
 
 /* Footer styles */
 footer {
