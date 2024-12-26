@@ -5,7 +5,7 @@ fetch('https://raw.githubusercontent.com/condio/licenseplatesite/main/states.jso
         // Generate the style section dynamically based on the "seen" property
         const styleSection = document.createElement('style');
         states.forEach(state => {
-            const stateStyle = `#${state.ID} { fill: ${state.seen ? 'green' : 'grey'}; }`;
+            const stateStyle = `#${state.ID} { fill: ${state.seen ? 'rgb(30, 30, 30)' : 'rgba(30, 30, 30, 0.3)'}; }`;
             styleSection.appendChild(document.createTextNode(stateStyle));
         });
 
