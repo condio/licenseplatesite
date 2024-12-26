@@ -88,30 +88,41 @@ th {
 
 /* Responsive design for small screens */
 @media (max-width: 600px) {
-  .site-name {
-    font-size: 28px; /* Slightly smaller for small screens */
-  }
-
-  .tagline {
-    font-size: 14px; /* Reduced to fit smaller screens */
+  #wrapper {
+    width: 100%; /* Make sure the wrapper spans the full viewport */
+    padding: 0; /* Remove any padding causing overflow */
+    margin: 0; /* Ensure no horizontal scrolling */
   }
 
   #stats-box, #mapdiv, #infobox {
-    width: 90%; /* Ensure proper width on mobile */
-    padding: 5px; /* Reduce padding for small screens */
+    width: 100%; /* Ensure full width for these elements */
+    padding: 10px; /* Add consistent padding */
   }
 
   .otherinfo {
     flex: 1 1 100%; /* Stack boxes vertically */
-    max-width: 100%; /* Ensure full width */
-    margin: 10px 0; /* Add vertical spacing */
+    max-width: 100%; /* Remove any restrictions on width */
+    margin: 10px 0; /* Maintain vertical spacing */
+  }
+
+  table {
+    width: 100%; /* Ensure the table spans the available space */
   }
 
   th, td {
-    padding: 8px; /* Reduce padding for table cells */
-    font-size: 14px; /* Adjust font size for readability */
+    padding: 8px; /* Adjust padding for smaller screens */
+    font-size: 14px; /* Reduce font size slightly */
+  }
+
+  .site-name {
+    font-size: 24px; /* Adjust for mobile readability */
+  }
+
+  .tagline {
+    font-size: 14px; /* Scale down tagline text */
   }
 }
+
 
 
 /* Footer styles */
