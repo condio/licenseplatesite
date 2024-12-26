@@ -94,9 +94,33 @@ th {
     margin: 0; /* Ensure no horizontal scrolling */
   }
 
-  #stats-box, #mapdiv, #infobox {
-    width: 100%; /* Ensure full width for these elements */
+  header{
+    padding-top: 30px;
+  }
+
+  #tagline {
+    width: 90vw; 
+  }
+
+  #stats-box{
+    width: 80vw; 
     padding: 10px; /* Add consistent padding */
+  }
+
+  #infobox {
+    width: 80vw;
+    padding: 10px; /* Add consistent padding */
+  }
+
+  #us-map{
+    width: 90vw;
+    margin: 0px;
+    margin-bottom: -150px;
+    margin-top: -150px;
+  }
+
+  #mapdiv{
+    margin: 0px;
   }
 
   .otherinfo {
