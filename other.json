@@ -1,1 +1,37 @@
-[]
+[
+    {
+        "ID": "1",
+        "Name": "Tamaulipas, Mexico",
+        "seen": true
+    },
+    {
+        "ID": "2",
+        "Name": "Washington, D.C., USA Other",
+        "seen": true
+    },
+    {
+        "ID": "3",
+        "Name": "Puerto Rico, USA Other",
+        "seen": true
+    },
+    {
+        "ID": "4",
+        "Name": "Alberta, Canada",
+        "seen": true
+    },
+    {
+        "ID": "5",
+        "Name": "Ontario, Canada",
+        "seen": true
+    },
+    {
+        "ID": "6",
+        "Name": "Manitoba, Canada",
+        "seen": true
+    },
+    {
+        "ID": "7",
+        "Name": "Quebec, Canada",
+        "seen": true
+    }
+]
