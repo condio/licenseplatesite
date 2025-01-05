@@ -32,7 +32,7 @@
     {
         "ID": "CT",
         "Name": "Connecticut",
-        "seen": false
+        "seen": true
     },
     {
         "ID": "DE",
@@ -122,7 +122,7 @@
     {
         "ID": "MO",
         "Name": "Missouri",
-        "seen": false
+        "seen": true
     },
     {
         "ID": "MT",
@@ -192,7 +192,7 @@
     {
         "ID": "RI",
         "Name": "Rhode Island",
-        "seen": false
+        "seen": true
     },
     {
         "ID": "SC",
@@ -202,7 +202,7 @@
     {
         "ID": "SD",
         "Name": "South Dakota",
-        "seen": false
+        "seen": true
     },
     {
         "ID": "TN",
@@ -247,6 +247,6 @@
     {
         "ID": "WY",
         "Name": "Wyoming",
-        "seen": false
+        "seen": true
     }
 ]
