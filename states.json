@@ -207,7 +207,7 @@
     {
         "ID": "TN",
         "Name": "Tennessee",
-        "seen": false
+        "seen": true
     },
     {
         "ID": "TX",
@@ -242,7 +242,7 @@
     {
         "ID": "WI",
         "Name": "Wisconsin",
-        "seen": false
+        "seen": true
     },
     {
         "ID": "WY",
