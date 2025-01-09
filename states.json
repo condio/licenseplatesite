@@ -47,7 +47,7 @@
     {
         "ID": "GA",
         "Name": "Georgia",
-        "seen": false
+        "seen": true
     },
     {
         "ID": "HI",
@@ -82,7 +82,7 @@
     {
         "ID": "KY",
         "Name": "Kentucky",
-        "seen": false
+        "seen": true
     },
     {
         "ID": "LA",
