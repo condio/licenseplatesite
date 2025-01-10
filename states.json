@@ -182,7 +182,7 @@
     {
         "ID": "OR",
         "Name": "Oregon",
-        "seen": false
+        "seen": true
     },
     {
         "ID": "PA",
