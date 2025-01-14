@@ -17,7 +17,7 @@
     {
         "ID": "AR",
         "Name": "Arkansas",
-        "seen": false
+        "seen": true
     },
     {
         "ID": "CA",
@@ -132,7 +132,7 @@
     {
         "ID": "NE",
         "Name": "Nebraska",
-        "seen": false
+        "seen": true
     },
     {
         "ID": "NV",
@@ -162,7 +162,7 @@
     {
         "ID": "NC",
         "Name": "North Carolina",
-        "seen": false
+        "seen": true
     },
     {
         "ID": "ND",
