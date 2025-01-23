@@ -117,7 +117,7 @@
     {
         "ID": "MS",
         "Name": "Mississippi",
-        "seen": false
+        "seen": true
     },
     {
         "ID": "MO",
