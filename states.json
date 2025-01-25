@@ -72,7 +72,7 @@
     {
         "ID": "IA",
         "Name": "Iowa",
-        "seen": false
+        "seen": true
     },
     {
         "ID": "KS",
