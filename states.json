@@ -27,7 +27,7 @@
     {
         "ID": "CO",
         "Name": "Colorado",
-        "seen": false
+        "seen": true
     },
     {
         "ID": "CT",
