@@ -3,5 +3,10 @@
         "ID": "1",
         "Name": "Ontario, Canada",
         "seen": true
+    },
+    {
+        "ID": "2",
+        "Name": "Washington, D.C., USA Other",
+        "seen": true
     }
 ]

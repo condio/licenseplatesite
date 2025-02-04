@@ -217,7 +217,7 @@
     {
         "ID": "UT",
         "Name": "Utah",
-        "seen": false
+        "seen": true
     },
     {
         "ID": "VT",
