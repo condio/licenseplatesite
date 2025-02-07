@@ -152,7 +152,7 @@
     {
         "ID": "NM",
         "Name": "New Mexico",
-        "seen": false
+        "seen": true
     },
     {
         "ID": "NY",
