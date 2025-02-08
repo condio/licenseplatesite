@@ -232,7 +232,7 @@
     {
         "ID": "WA",
         "Name": "Washington",
-        "seen": false
+        "seen": true
     },
     {
         "ID": "WV",
