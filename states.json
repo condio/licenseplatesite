@@ -112,7 +112,7 @@
     {
         "ID": "MN",
         "Name": "Minnesota",
-        "seen": false
+        "seen": true
     },
     {
         "ID": "MS",
