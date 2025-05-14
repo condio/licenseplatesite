@@ -18,5 +18,10 @@
         "ID": "4",
         "Name": "Nova Scotia, Canada",
         "seen": true
+    },
+    {
+        "ID": "5",
+        "Name": "Alberta, Canada",
+        "seen": true
     }
 ]
