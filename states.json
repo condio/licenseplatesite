@@ -142,7 +142,7 @@
     {
         "ID": "NH",
         "Name": "New Hampshire",
-        "seen": false
+        "seen": true
     },
     {
         "ID": "NJ",
