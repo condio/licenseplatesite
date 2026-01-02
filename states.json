@@ -92,22 +92,22 @@
     {
         "ID": "ME",
         "Name": "Maine",
-        "seen": false
+        "seen": true
     },
     {
         "ID": "MD",
         "Name": "Maryland",
-        "seen": false
+        "seen": true
     },
     {
         "ID": "MA",
         "Name": "Massachusetts",
-        "seen": false
+        "seen": true
     },
     {
         "ID": "MI",
         "Name": "Michigan",
-        "seen": false
+        "seen": true
     },
     {
         "ID": "MN",
@@ -147,7 +147,7 @@
     {
         "ID": "NJ",
         "Name": "New Jersey",
-        "seen": false
+        "seen": true
     },
     {
         "ID": "NM",
@@ -157,12 +157,12 @@
     {
         "ID": "NY",
         "Name": "New York",
-        "seen": false
+        "seen": true
     },
     {
         "ID": "NC",
         "Name": "North Carolina",
-        "seen": false
+        "seen": true
     },
     {
         "ID": "ND",
@@ -172,12 +172,12 @@
     {
         "ID": "OH",
         "Name": "Ohio",
-        "seen": false
+        "seen": true
     },
     {
         "ID": "OK",
         "Name": "Oklahoma",
-        "seen": false
+        "seen": true
     },
     {
         "ID": "OR",
@@ -187,7 +187,7 @@
     {
         "ID": "PA",
         "Name": "Pennsylvania",
-        "seen": false
+        "seen": true
     },
     {
         "ID": "RI",
@@ -197,7 +197,7 @@
     {
         "ID": "SC",
         "Name": "South Carolina",
-        "seen": false
+        "seen": true
     },
     {
         "ID": "SD",
@@ -212,12 +212,12 @@
     {
         "ID": "TX",
         "Name": "Texas",
-        "seen": false
+        "seen": true
     },
     {
         "ID": "UT",
         "Name": "Utah",
-        "seen": false
+        "seen": true
     },
     {
         "ID": "VT",
@@ -237,7 +237,7 @@
     {
         "ID": "WV",
         "Name": "West Virginia",
-        "seen": false
+        "seen": true
     },
     {
         "ID": "WI",
