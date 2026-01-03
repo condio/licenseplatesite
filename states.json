@@ -67,7 +67,7 @@
     {
         "ID": "IN",
         "Name": "Indiana",
-        "seen": false
+        "seen": true
     },
     {
         "ID": "IA",
@@ -207,7 +207,7 @@
     {
         "ID": "TN",
         "Name": "Tennessee",
-        "seen": false
+        "seen": true
     },
     {
         "ID": "TX",
@@ -227,7 +227,7 @@
     {
         "ID": "VA",
         "Name": "Virginia",
-        "seen": false
+        "seen": true
     },
     {
         "ID": "WA",

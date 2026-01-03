@@ -1,1 +1,7 @@
-[]
+[
+    {
+        "ID": "1",
+        "Name": "Ontario, Canada",
+        "seen": true
+    }
+]
