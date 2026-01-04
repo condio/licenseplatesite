@@ -27,7 +27,7 @@
     {
         "ID": "CO",
         "Name": "Colorado",
-        "seen": false
+        "seen": true
     },
     {
         "ID": "CT",
@@ -42,7 +42,7 @@
     {
         "ID": "FL",
         "Name": "Florida",
-        "seen": false
+        "seen": true
     },
     {
         "ID": "GA",
@@ -72,7 +72,7 @@
     {
         "ID": "IA",
         "Name": "Iowa",
-        "seen": false
+        "seen": true
     },
     {
         "ID": "KS",
@@ -182,7 +182,7 @@
     {
         "ID": "OR",
         "Name": "Oregon",
-        "seen": false
+        "seen": true
     },
     {
         "ID": "PA",
