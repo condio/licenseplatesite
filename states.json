@@ -87,7 +87,7 @@
     {
         "ID": "LA",
         "Name": "Louisiana",
-        "seen": false
+        "seen": true
     },
     {
         "ID": "ME",
