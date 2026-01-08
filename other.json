@@ -8,5 +8,10 @@
         "ID": "2",
         "Name": "Quebec, Canada",
         "seen": true
+    },
+    {
+        "ID": "3",
+        "Name": "Tabasco, Mexico",
+        "seen": true
     }
 ]
