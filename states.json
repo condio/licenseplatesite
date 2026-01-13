@@ -222,7 +222,7 @@
     {
         "ID": "VT",
         "Name": "Vermont",
-        "seen": false
+        "seen": true
     },
     {
         "ID": "VA",

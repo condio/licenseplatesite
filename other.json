@@ -13,5 +13,15 @@
         "ID": "3",
         "Name": "Tabasco, Mexico",
         "seen": true
+    },
+    {
+        "ID": "4",
+        "Name": "Quintana Roo, Mexico",
+        "seen": true
+    },
+    {
+        "ID": "5",
+        "Name": "Oaxaca, Mexico",
+        "seen": true
     }
 ]
