@@ -22,7 +22,7 @@
     {
         "ID": "CA",
         "Name": "California",
-        "seen": false
+        "seen": true
     },
     {
         "ID": "CO",
@@ -37,7 +37,7 @@
     {
         "ID": "DE",
         "Name": "Delaware",
-        "seen": false
+        "seen": true
     },
     {
         "ID": "FL",
@@ -127,7 +127,7 @@
     {
         "ID": "MT",
         "Name": "Montana",
-        "seen": false
+        "seen": true
     },
     {
         "ID": "NE",
