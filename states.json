@@ -202,7 +202,7 @@
     {
         "ID": "SD",
         "Name": "South Dakota",
-        "seen": false
+        "seen": true
     },
     {
         "ID": "TN",
