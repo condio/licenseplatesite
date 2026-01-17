@@ -62,7 +62,7 @@
     {
         "ID": "IL",
         "Name": "Illinois",
-        "seen": false
+        "seen": true
     },
     {
         "ID": "IN",
