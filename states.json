@@ -12,7 +12,7 @@
     {
         "ID": "AZ",
         "Name": "Arizona",
-        "seen": false
+        "seen": true
     },
     {
         "ID": "AR",
@@ -122,7 +122,7 @@
     {
         "ID": "MO",
         "Name": "Missouri",
-        "seen": false
+        "seen": true
     },
     {
         "ID": "MT",
@@ -142,7 +142,7 @@
     {
         "ID": "NH",
         "Name": "New Hampshire",
-        "seen": false
+        "seen": true
     },
     {
         "ID": "NJ",
