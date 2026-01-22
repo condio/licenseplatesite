@@ -47,7 +47,7 @@
     {
         "ID": "GA",
         "Name": "Georgia",
-        "seen": false
+        "seen": true
     },
     {
         "ID": "HI",
@@ -57,7 +57,7 @@
     {
         "ID": "ID",
         "Name": "Idaho",
-        "seen": false
+        "seen": true
     },
     {
         "ID": "IL",
@@ -82,7 +82,7 @@
     {
         "ID": "KY",
         "Name": "Kentucky",
-        "seen": false
+        "seen": true
     },
     {
         "ID": "LA",
@@ -132,7 +132,7 @@
     {
         "ID": "NE",
         "Name": "Nebraska",
-        "seen": false
+        "seen": true
     },
     {
         "ID": "NV",
@@ -242,7 +242,7 @@
     {
         "ID": "WI",
         "Name": "Wisconsin",
-        "seen": false
+        "seen": true
     },
     {
         "ID": "WY",
