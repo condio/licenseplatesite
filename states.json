@@ -32,7 +32,7 @@
     {
         "ID": "CT",
         "Name": "Connecticut",
-        "seen": false
+        "seen": true
     },
     {
         "ID": "DE",
@@ -192,7 +192,7 @@
     {
         "ID": "RI",
         "Name": "Rhode Island",
-        "seen": false
+        "seen": true
     },
     {
         "ID": "SC",
