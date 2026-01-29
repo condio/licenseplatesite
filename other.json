@@ -23,5 +23,10 @@
         "ID": "5",
         "Name": "Oaxaca, Mexico",
         "seen": true
+    },
+    {
+        "ID": "6",
+        "Name": "Washington, D.C., USA Other",
+        "seen": true
     }
 ]
