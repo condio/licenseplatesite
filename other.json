@@ -28,5 +28,10 @@
         "ID": "6",
         "Name": "Washington, D.C., USA Other",
         "seen": true
+    },
+    {
+        "ID": "7",
+        "Name": "Coahuila, Mexico",
+        "seen": true
     }
 ]
