@@ -2,7 +2,7 @@
     {
         "ID": "AL",
         "Name": "Alabama",
-        "seen": false
+        "seen": true
     },
     {
         "ID": "AK",
