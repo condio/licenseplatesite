@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
     <title>License Plate Game</title>
   </head>
@@ -12,24 +12,34 @@
   <div id="wrapper">
     <header>
       <div class="site-name">License Plate Game</div>
-      <div id="tagline" class="tagline">Here you can follow along as we try to see every license plate in 2025. Will we find them all?</div>
+      <div id="tagline" class="tagline">Here you can follow along as we try to see every license plate in 2026. Will we find them all?</div>
     </header>
 
     <main>
       <div id="stats-box">
-        <table>
-          <thead>
-            <tr>
-              <th>States Seen</th>
-              <th>States Remaining</th>
-              <th>Other Plates</th>
-              <th>Total Seen</th>
-            </tr>
-          </thead>
-          <tbody id="statstable">
-            <script src="stats.js"></script>
-          </tbody>
-        </table>
+        <div class="stat-cards">
+          <div class="stat-card">
+            <div class="stat-number" id="stat-seen">—</div>
+            <div class="stat-label">States Seen</div>
+          </div>
+          <div class="stat-card">
+            <div class="stat-number" id="stat-remaining">—</div>
+            <div class="stat-label">Remaining</div>
+          </div>
+          <div class="stat-card">
+            <div class="stat-number" id="stat-other">—</div>
+            <div class="stat-label">Other Plates</div>
+          </div>
+          <div class="stat-card">
+            <div class="stat-number" id="stat-total">—</div>
+            <div class="stat-label">Total Seen</div>
+          </div>
+        </div>
+        <div class="progress-container">
+          <div class="progress-bar" id="progress-bar"></div>
+        </div>
+        <p class="progress-label" id="progress-label"></p>
+        <script src="stats.js"></script>
       </div>
       
       <div id="mapdiv">
@@ -105,7 +115,7 @@
     </main>
 
     <footer>
-      <p class="copyright">© 2025 cond.io - map code by 
+      <p class="copyright">© 2026 cond.io - map code by 
         <a href="https://codepen.io/Gogh" target="_blank">https://codepen.io/Gogh</a>
       </p>
     </footer>
