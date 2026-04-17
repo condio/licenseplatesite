@@ -33,5 +33,15 @@
         "ID": "7",
         "Name": "Coahuila, Mexico",
         "seen": true
+    },
+    {
+        "ID": "8",
+        "Name": "Alberta, Canada",
+        "seen": true
+    },
+    {
+        "ID": "9",
+        "Name": "Manitoba, Canada",
+        "seen": true
     }
 ]

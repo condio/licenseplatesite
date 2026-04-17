@@ -52,7 +52,7 @@
     {
         "ID": "HI",
         "Name": "Hawaii",
-        "seen": true
+        "seen": false
     },
     {
         "ID": "ID",
@@ -117,7 +117,7 @@
     {
         "ID": "MS",
         "Name": "Mississippi",
-        "seen": false
+        "seen": true
     },
     {
         "ID": "MO",
@@ -167,7 +167,7 @@
     {
         "ID": "ND",
         "Name": "North Dakota",
-        "seen": true
+        "seen": false
     },
     {
         "ID": "OH",
