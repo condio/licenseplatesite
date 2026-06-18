@@ -43,5 +43,10 @@
         "ID": "9",
         "Name": "Manitoba, Canada",
         "seen": true
+    },
+    {
+        "ID": "10",
+        "Name": "New Brunswick, Canada",
+        "seen": true
     }
 ]
