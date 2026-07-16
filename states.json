@@ -167,7 +167,7 @@
     {
         "ID": "ND",
         "Name": "North Dakota",
-        "seen": false
+        "seen": true
     },
     {
         "ID": "OH",
